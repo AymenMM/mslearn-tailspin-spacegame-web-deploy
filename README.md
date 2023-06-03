@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/aymenmehrez/e2e283f3-b1fb-4630-b11b-dc246e26fefe/710fce7c-dad9-4d5d-962e-3649cf7a1ecf/_apis/work/boardbadge/7ee4b205-b8d6-4909-974a-1090d5e31ff6)](https://dev.azure.com/aymenmehrez/e2e283f3-b1fb-4630-b11b-dc246e26fefe/_boards/board/t/710fce7c-dad9-4d5d-962e-3649cf7a1ecf/Microsoft.RequirementCategory)
 
 # Contributing
 
